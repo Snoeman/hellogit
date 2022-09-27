@@ -6,6 +6,9 @@ public class HelloGit {
 		System.out.println("Hello, Git!");
 		System.out.println("I changed this");
 		System.out.println("I did it again");
+		
+		
+		System.out.println("I changed this is there conflict");
 	}
 
 }
